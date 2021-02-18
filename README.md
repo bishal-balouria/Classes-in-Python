@@ -1,1 +1,1 @@
-Basics of Classes in Python
+Classes in Python
