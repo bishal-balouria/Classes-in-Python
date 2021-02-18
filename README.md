@@ -1,2 +1,1 @@
-# First_Repository
-This is the first repositiry i have created !!!
+Basics of Classes in Python
